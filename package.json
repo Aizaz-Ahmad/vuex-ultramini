@@ -1,0 +1,24 @@
+{
+  "name": "vuex-ultramini",
+  "version": "1.0.0",
+  "description": "An UltraMini Version of Vuex Store for really simple tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aizaz-Ahmad/vuex-ultramini.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "vuex-store"
+  ],
+  "author": "Aizaz Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aizaz-Ahmad/vuex-ultramini/issues"
+  },
+  "homepage": "https://github.com/Aizaz-Ahmad/vuex-ultramini#readme"
+}
