@@ -1,3 +1,4 @@
+[![Views](https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.vuex-ultramini")](https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.vuex-ultramini")
 # Vuex Ultramini (for Vue.js v3)
 An Ultra Mini Version of Vuex Store for Really Simple Tasks
 
