@@ -1,6 +1,7 @@
 {
   "name": "vuex-ultramini",
   "version": "1.0.0",
+  "private": false,
   "description": "An Ultra Mini Version of Vuex Store for really simple tasks.",
   "main": "dist/vuex-ultramini.js",
   "scripts": {
