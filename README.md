@@ -56,3 +56,6 @@ To use inside Composition use `inject` as below
     }
   }
 ```
+
+## Report Issues
+Report issues or bugs in this repo's Issue Tracker.
