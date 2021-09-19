@@ -1,4 +1,4 @@
-[![Views](https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.vuex-ultramini")](https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.vuex-ultramini")
+[![Views](https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.vuex-ultramini")](https://visitor-badge.glitch.me/badge?page_id=Aizaz-Ahmad.vuex-ultramini") [![npm](https://img.shields.io/npm/dw/vuex-ultramini?color=%23CC3534&label=npm%20downloads&logo=npm)](https://www.npmjs.com/package/vuex-ultramini)
 # Vuex Ultramini (for Vue.js v3)
 An Ultra Mini Version of Vuex Store for Really Simple Tasks
 
